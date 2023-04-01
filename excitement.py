@@ -12,6 +12,7 @@ def show_excitement():
 
     array = [message] * 5
 
-    return  array[0] + " " + array[1] + " " + array[2] + " " + array[3] + " " + array[4]
+    return array[0] + " " + array[1] + " " + array[2] + " " + array[3] + " " + array[4]
 
 print(show_excitement())
+
